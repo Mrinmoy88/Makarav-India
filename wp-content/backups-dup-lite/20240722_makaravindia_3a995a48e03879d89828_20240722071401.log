@@ -1,0 +1,73 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: July 22, 2024 7:14 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.10.1
+WORDPRESS:	6.6
+PHP INFO:	8.2.14 | SAPI: litespeed
+SERVER:		LiteSpeed 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (2048M default) 
+MEMORY STACK: 40MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20240722_makaravindia_3a995a48e03879d89828_20240722071401_database.sql
+SQL FILE SIZE: 1.25MB (1310047)
+SQL FILE TIME: 2024-07-22 07:14:10
+SQL RUNTIME: 0.17 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /home/u505426395/domains/artemisys.com/public_html/makarav_india_wp
+ARCHIVE FILE: 20240722_makaravindia_3a995a48e03879d89828_20240722071401_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	81.09MB
+STATS:	Dirs 569 | Files 4,218
+SQL ADDED: 20240722_makaravindia_3a995a48e03879d89828_20240722071401_database.sql
+ZipArchive Object
+(
+    [lastId] => 4786
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4787
+    [filename] => /home/u505426395/domains/artemisys.com/public_html/makarav_india_wp/wp-content/backups-dup-lite/tmp/20240722_makaravindia_3a995a48e03879d89828_20240722071401_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 4786
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 22.67MB
+ARCHIVE RUNTIME: 8.53 sec.
+MEMORY STACK: 42MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.25MB
+INSTALLER FILE: 73.48KB
+ARCHIVE FILE: 24.51MB 
+EXPECTED FILE/DIRECTORY COUNT: 4,787
+ACTUAL FILE/DIRECTORY COUNT: 4,786
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 9.61 sec.
+PEAK PHP MEMORY USED: 42MB
+DONE PROCESSING => 20240722_makaravindia July 22, 2024 7:14 am
+
